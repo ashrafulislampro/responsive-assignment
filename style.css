@@ -1,0 +1,49 @@
+body{
+          font-family: 'Oswald', sans-serif;
+}
+main{
+          width: 1300px;
+          max-width: 90%;
+          margin: 0 auto;
+}
+.header{
+          margin-bottom: 100px;
+}
+section{
+          padding-bottom: 100px;
+}
+.logo{
+          width: 50%;
+}
+.grid-info{
+          padding-left: 100px;
+}
+.grid-info span, .price{
+          color: rgb(250 128 76);
+}
+.grid-info h1{
+          color: rgb(54 57 88);
+          font-size: 7em;
+}
+.btn{
+          background-color: #3b4ce8;
+}
+.photos{
+          width: 100%;
+}
+.photo-part{
+          width: 100px;
+          padding: 15px;
+}
+.content-box{
+          margin-bottom: 15px;
+}
+.bg-color{
+          background: linear-gradient(#74a7f7, #a1eefb);
+}
+.bg-submit{
+          background: #cfd95f;
+          padding: 10px;
+          border-style: none;
+          color: white;
+}
